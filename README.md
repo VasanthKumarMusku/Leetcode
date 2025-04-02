@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0189-rotate-array) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
