@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0189-rotate-array) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/VasanthKumarMusku/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/VasanthKumarMusku/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Math
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/VasanthKumarMusku/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Graph
 |  |
 | ------- |
