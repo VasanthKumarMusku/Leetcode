@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0189-rotate-array) |
+| [0868-push-dominoes](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0868-push-dominoes) |
 ## Stack
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0868-push-dominoes](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0868-push-dominoes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/VasanthKumarMusku/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0868-push-dominoes) |
 <!---LeetCode Topics End-->
