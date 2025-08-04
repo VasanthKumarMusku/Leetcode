@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0041-first-missing-positive) |
 | [0189-rotate-array](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0189-rotate-array) |
+| [0605-can-place-flowers](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0605-can-place-flowers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/VasanthKumarMusku/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/VasanthKumarMusku/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/VasanthKumarMusku/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/VasanthKumarMusku/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
