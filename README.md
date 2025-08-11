@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0189-rotate-array) |
 | [0605-can-place-flowers](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0605-can-place-flowers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/VasanthKumarMusku/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2529-range-product-queries-of-powers](https://github.com/VasanthKumarMusku/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/VasanthKumarMusku/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/VasanthKumarMusku/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Math
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2529-range-product-queries-of-powers](https://github.com/VasanthKumarMusku/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/VasanthKumarMusku/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [2529-range-product-queries-of-powers](https://github.com/VasanthKumarMusku/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 <!---LeetCode Topics End-->
