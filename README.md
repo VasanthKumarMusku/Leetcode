@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0041-first-missing-positive) |
 | [0189-rotate-array](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0189-rotate-array) |
+| [0498-diagonal-traverse](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0605-can-place-flowers](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0605-can-place-flowers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/VasanthKumarMusku/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2529-range-product-queries-of-powers](https://github.com/VasanthKumarMusku/Leetcode/tree/master/2529-range-product-queries-of-powers) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0498-diagonal-traverse) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/VasanthKumarMusku/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-range-product-queries-of-powers](https://github.com/VasanthKumarMusku/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
