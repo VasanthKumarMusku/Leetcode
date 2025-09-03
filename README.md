@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/VasanthKumarMusku/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2529-range-product-queries-of-powers](https://github.com/VasanthKumarMusku/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/VasanthKumarMusku/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VasanthKumarMusku/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/VasanthKumarMusku/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0189-rotate-array) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VasanthKumarMusku/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/VasanthKumarMusku/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Two Pointers
 |  |
@@ -126,4 +128,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Geometry
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VasanthKumarMusku/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+## Sorting
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VasanthKumarMusku/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VasanthKumarMusku/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 <!---LeetCode Topics End-->
