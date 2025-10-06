@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0041-first-missing-positive) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/VasanthKumarMusku/Leetcode/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VasanthKumarMusku/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/VasanthKumarMusku/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/VasanthKumarMusku/Leetcode/tree/master/2060-merge-bsts-to-create-single-bst) |
 ## Trie
 |  |
 | ------- |
@@ -122,14 +124,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/VasanthKumarMusku/Leetcode/tree/master/2060-merge-bsts-to-create-single-bst) |
 ## Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/VasanthKumarMusku/Leetcode/tree/master/2060-merge-bsts-to-create-single-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [2060-merge-bsts-to-create-single-bst](https://github.com/VasanthKumarMusku/Leetcode/tree/master/2060-merge-bsts-to-create-single-bst) |
 ## Geometry
 |  |
 | ------- |
