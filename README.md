@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0605-can-place-flowers](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0605-can-place-flowers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/VasanthKumarMusku/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/VasanthKumarMusku/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2529-range-product-queries-of-powers](https://github.com/VasanthKumarMusku/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/VasanthKumarMusku/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/VasanthKumarMusku/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0868-push-dominoes](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0868-push-dominoes) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/VasanthKumarMusku/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/VasanthKumarMusku/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/VasanthKumarMusku/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VasanthKumarMusku/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/VasanthKumarMusku/Leetcode/tree/master/0498-diagonal-traverse) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/VasanthKumarMusku/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Binary Search
 |  |
 | ------- |
